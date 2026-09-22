@@ -109,13 +109,32 @@
     "label": "Contacto",
     "title": "Contáctame",
     "description": "Actualmente estoy abierto a nuevas oportunidades. Ya sea que tengas una pregunta o simplemente quieras saludar, ¡no dudes en contactarme!",
-    "emailMe": "Envíame un email",
-    "sendMessage": "Enviar mensaje",
-    "connectProfessionally": "Conectar profesionalmente",
-    "checkMyCode": "Ver mi código",
-    "quickChat": "Chat rápido",
-    "chatDirectly": "Chatear directamente",
-    "footer": "¡Espero tener noticias tuyas!"
+    "footer": "¡Espero tener noticias tuyas!",
+    "form": {
+      "title": "Envíame un mensaje",
+      "subtitle": "Rellena el formulario y te responderé en breve.",
+      "name": "Nombre completo",
+      "namePlaceholder": "Juan Pérez",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "juan@ejemplo.com",
+      "subject": "Asunto",
+      "subjectPlaceholder": "¿De qué se trata?",
+      "message": "Mensaje",
+      "messagePlaceholder": "Cuéntame sobre tu proyecto o pregunta...",
+      "send": "Enviar mensaje",
+      "sending": "Enviando...",
+      "successTitle": "¡Mensaje enviado!",
+      "successMessage": "Gracias por tu mensaje. Me pondré en contacto contigo pronto.",
+      "errorTitle": "Algo salió mal.",
+      "errorMessage": "Por favor inténtalo de nuevo o contáctame directamente por email."
+    },
+    "info": {
+      "location": "Ubicación",
+      "status": "Estado",
+      "available": "Disponible para trabajar",
+      "response": "Tiempo de respuesta",
+      "responseTime": "En 24 horas"
+    }
   },
   "footer": {
     "rights": "Todos los derechos reservados."

@@ -109,13 +109,32 @@
     "label": "Me Contacter",
     "title": "Contact",
     "description": "Je suis actuellement ouvert à de nouvelles opportunités. Que vous ayez une question ou que vous souhaitiez simplement dire bonjour, n'hésitez pas à me contacter !",
-    "emailMe": "M'envoyer un email",
-    "sendMessage": "Envoyer un message",
-    "connectProfessionally": "Connexion professionnelle",
-    "checkMyCode": "Voir mon code",
-    "quickChat": "Discussion rapide",
-    "chatDirectly": "Discuter directement",
-    "footer": "Au plaisir de vous lire !"
+    "footer": "Au plaisir de vous lire !",
+    "form": {
+      "title": "Envoyez-moi un message",
+      "subtitle": "Remplissez le formulaire et je vous répondrai rapidement.",
+      "name": "Nom complet",
+      "namePlaceholder": "Jean Dupont",
+      "email": "Adresse email",
+      "emailPlaceholder": "jean@exemple.com",
+      "subject": "Sujet",
+      "subjectPlaceholder": "De quoi s'agit-il ?",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-moi de votre projet ou de votre question...",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "successTitle": "Message envoyé !",
+      "successMessage": "Merci pour votre message. Je vous répondrai dans les plus brefs délais.",
+      "errorTitle": "Une erreur s'est produite.",
+      "errorMessage": "Veuillez réessayer ou me contacter directement par email."
+    },
+    "info": {
+      "location": "Localisation",
+      "status": "Statut",
+      "available": "Disponible",
+      "response": "Délai de réponse",
+      "responseTime": "Sous 24 heures"
+    }
   },
   "footer": {
     "rights": "Tous droits réservés."
