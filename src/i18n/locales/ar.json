@@ -109,13 +109,32 @@
     "label": "تواصل معي",
     "title": "اتصل بي",
     "description": "أنا متاح حاليًا لفرص جديدة. سواء كان لديك سؤال أو تريد فقط إلقاء التحية، لا تتردد في التواصل!",
-    "emailMe": "راسلني بالبريد",
-    "sendMessage": "إرسال رسالة",
-    "connectProfessionally": "تواصل مهني",
-    "checkMyCode": "شاهد الكود",
-    "quickChat": "محادثة سريعة",
-    "chatDirectly": "تحدث مباشرة",
-    "footer": "أتطلع لسماع أخبارك!"
+    "footer": "أتطلع لسماع أخبارك!",
+    "form": {
+      "title": "أرسل لي رسالة",
+      "subtitle": "املأ النموذج وسأرد عليك في أقرب وقت.",
+      "name": "الاسم الكامل",
+      "namePlaceholder": "محمد أحمد",
+      "email": "عنوان البريد الإلكتروني",
+      "emailPlaceholder": "mohammed@example.com",
+      "subject": "الموضوع",
+      "subjectPlaceholder": "ما هو موضوع رسالتك?",
+      "message": "الرسالة",
+      "messagePlaceholder": "أخبرني عن مشروعك أو سؤالك...",
+      "send": "إرسال الرسالة",
+      "sending": "جاري الإرسال...",
+      "successTitle": "تم إرسال الرسالة!",
+      "successMessage": "شكرًا على رسالتك. سأعود إليك قريبًا.",
+      "errorTitle": "حدث خطأ ما.",
+      "errorMessage": "يرجى المحاولة مرة أخرى أو التواصل مباشرة عبر البريد الإلكتروني."
+    },
+    "info": {
+      "location": "الموقع",
+      "status": "الحالة",
+      "available": "متاح للعمل",
+      "response": "وقت الرد",
+      "responseTime": "خلال 24 ساعة"
+    }
   },
   "footer": {
     "rights": "جميع الحقوق محفوظة."

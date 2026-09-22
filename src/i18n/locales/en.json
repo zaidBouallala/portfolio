@@ -109,13 +109,32 @@
     "label": "Get in Touch",
     "title": "Contact Me",
     "description": "I'm currently open to new opportunities. Whether you have a question or just want to say hi, feel free to reach out!",
-    "emailMe": "Email Me",
-    "sendMessage": "Send Message",
-    "connectProfessionally": "Connect professionally",
-    "checkMyCode": "Check my code",
-    "quickChat": "Quick chat",
-    "chatDirectly": "Chat directly",
-    "footer": "Looking forward to hearing from you!"
+    "footer": "Looking forward to hearing from you!",
+    "form": {
+      "title": "Send Me a Message",
+      "subtitle": "Fill in the form and I'll get back to you shortly.",
+      "name": "Full Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is this about?",
+      "message": "Message",
+      "messagePlaceholder": "Tell me about your project or question...",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "successTitle": "Message sent!",
+      "successMessage": "Thank you for your message. I will get back to you soon.",
+      "errorTitle": "Something went wrong.",
+      "errorMessage": "Please try again or reach out directly via email."
+    },
+    "info": {
+      "location": "Location",
+      "status": "Status",
+      "available": "Available for work",
+      "response": "Response time",
+      "responseTime": "Within 24 hours"
+    }
   },
   "footer": {
     "rights": "All rights reserved."
